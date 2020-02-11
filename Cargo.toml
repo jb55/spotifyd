@@ -17,7 +17,7 @@ failure = "0.1.6"
 fern = { version = "0.5.9", features = ["syslog-4"] }
 futures = "0.1"
 gethostname = "0.2.0"
-hex = "0.4"
+hex = "0.4.1"
 keyring = { version = "0.8.0", optional = true }
 lazy_static = "1.4.0"
 libc = "0.2.66"
